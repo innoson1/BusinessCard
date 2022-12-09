@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="logo_name">android</string>
+    <string name="full_name">My Full Name</string>
+    <string name="job_title">Android Developer Extraordinaire</string>
+    <string name="contact_information">+1234567890</string>
+    <string name="social_media_handle">https://www.emample.com</string>
+    <string name="email_address">abc@yahoo.com</string>
+
+</resources>
